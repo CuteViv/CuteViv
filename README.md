@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CuteViv
 - 👀 I’m interested in data related stuff.
-- 🌱 I’m currently learning python.
-- 📫 You can reach me by email xyhuang0211@gmail.com
+- 📫 You can reach me by email vivhuang1995@gmail.com
 
 <!---
 CuteViv/CuteViv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
